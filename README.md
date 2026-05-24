@@ -1,6 +1,6 @@
 # 🛡️ Multimodal Fake News Detection System
 
-### Fake News + Fake Image + Fake Audio + Fake Video Detection using Machine Learning and Deep Learning
+### Fake Text + Fake Image + Fake Audio + Fake Video Detection using Machine Learning and Deep Learning
 
 ---
 
