@@ -1,0 +1,19 @@
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
+
+# Text & NLP Processing
+nltk
+transformers
+torch
+
+# Image Processing (Computer Vision)
+Pillow
+opencv-python-headless
+
+# Audio & Video Processing
+librosa
+pydub
+moviepy
