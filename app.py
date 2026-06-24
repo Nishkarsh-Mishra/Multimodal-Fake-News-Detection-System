@@ -31,7 +31,6 @@ def show_prediction(prediction, confidence=None):
     )
 
 # ---------------- Load Models ----------------
-# ---------------- Load Models ----------------
 @st.cache_resource
 def load_models():
     return (
@@ -307,4 +306,4 @@ with tab4:
 
 # ---------------- Footer ----------------
 st.markdown("---")
-st.markdown("<center>Developed by Group 98</center>", unsafe_allow_html=True)
+st.markdown("<center>Developed by Nishkarsh</center>", unsafe_allow_html=True)
